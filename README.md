@@ -7,7 +7,7 @@
 2. Create a conda environment:
     ```bash
     conda create -p venv python=3.12
-    conda activate C:\genai-sandbox\venv
+    conda activate venv/
     ```
 3. List conda environments:
     ```bash
