@@ -3,3 +3,5 @@ sklearn
 tensorflow
 yellowbrick
 matplotlib
+pandas
+google-cloud-aiplatform
